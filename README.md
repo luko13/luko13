@@ -1,16 +1,19 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Luis (o Luko)
 
-<!--
-**luko13/luko13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Desarrollador Full Stack y desarrollador móvil | Especializado en React, React Native, Next.js, vue.js, Angular, TypeScript y Node.js  
+🎯 Apasionado por la creación de productos digitales con excelente UI/UX  
+🔍 Siempre aprendiendo y explorando nuevas tecnologías  
 
-Here are some ideas to get you started:
+## 📌 Proyectos Destacados
+- **[Mi Portafolio](https://tudominio.com)** - Mi web con proyectos y experiencia.
+- **OfficeManagerSystema - https://legendary-pudding-6e5739.netlify.app  Una web app enfocada al control de eventos dentro de una empresa (Vacaciones, citas, recordatorios, etc.) y fichaje digitalizado.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Estadísticas
+![Tu Usuario's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=dark)
+
+## 📫 Contacto
+💼 [LinkedIn](https://linkedin.com/in/tuusuario) | 📧 [Email](mailto:tuemail@gmail.com) | 🌐 [Web Personal](https://tudominio.com)
+
+---
+
+⭐ **Si te gusta mi trabajo, considera darme una estrella en GitHub!** 🌟
