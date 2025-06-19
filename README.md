@@ -12,7 +12,7 @@
 ![Tu Usuario's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=dark)
 
 ## 📫 Contacto
-💼 [LinkedIn](https://linkedin.com/in/tuusuario) | 📧 [Email](mailto:tuemail@gmail.com) | 🌐 [Web Personal](https://tudominio.com)
+💼 [LinkedIn](https://www.linkedin.com/in/luis-chill%C3%B3n-serratosa-00735486/) | 📧 [Email](mailto:luislk1996chs@gmail.com)
 
 ---
 
