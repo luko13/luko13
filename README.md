@@ -5,7 +5,7 @@
 🔍 Siempre aprendiendo y explorando nuevas tecnologías  
 
 ## 📌 Proyectos Destacados
-- **OfficeManagerSystema - https://oms-beta.vercel.app  Una web app enfocada al control de eventos dentro de una empresa (Vacaciones, citas, recordatorios, etc.) y fichaje digitalizado.
+- **Jornal - [https://jornal.work/](https://jornal.work/)  Una web app enfocada al control de eventos dentro de una empresa (Vacaciones, citas, recordatorios, etc.) y fichaje digitalizado.
 - **Restaurant Tracker - https://guileless-medovik-61eb64.netlify.app Una web para apuntar tus visitas a restaurantes, hacer una valoración y llevar un registro completo de tu pasión por la gastronomía
 
 ## 📊 Estadísticas
