@@ -1,6 +1,6 @@
 # Luis Santiago Chillón Serratosa
 
-**Software Engineer · React Native · TypeScript · React · Next.js · PostgreSQL**
+**Software Engineer Skills · React Native · TypeScript · React · Next.js · PostgreSQL**
 
 I build products end to end and take ownership of the engineering behind them — mobile, web, backend, data, testing, CI/CD, and release pipelines.
 
