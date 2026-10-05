@@ -1,10 +1,10 @@
 # Luis Santiago Chillón Serratosa
 
-**Software Engineer Skills · React Native · TypeScript · React · Next.js · PostgreSQL**
+**Frontend / Product Engineer · React · TypeScript · Next.js · React Native**
 
-I build products end to end and take ownership of the engineering behind them — mobile, web, backend, data, testing, CI/CD, and release pipelines.
+I build production web and mobile products with a focus on frontend architecture, system design and engineering quality.
 
-My strongest area is **React Native / Expo + TypeScript**, with a product-engineering mindset: offline-first systems, PostgreSQL-backed domain logic, resilient sync, native integrations, and shipping across iOS, Android, and web.
+Hands-on experience with modular architectures, microfrontends, TDD (Red-Green-Refactor), SOLID principles, software design patterns, ADRs, offline-first systems, typed domain boundaries and CI/CD.
 
 ## Selected work
 
